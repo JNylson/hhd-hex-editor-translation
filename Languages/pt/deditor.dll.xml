@@ -3,7 +3,7 @@
   <Message key="ExportPromt" value="Copiando arquivos" revision="0" />
   <Message key="Volume Errors" value="Erro no Volume" revision="0" />
   <Message key="CantParse" value="Erro ao analisar atributos" revision="0" />
-  <Message key="SequenceNumberError" value="Erro no arquivo de gravação ao atualiza sequencia de número: {number}" revision="0" />
+  <Message key="SequenceNumberError" value="Erro no arquivo de gravação ao atualiza sequência de número: {number}" revision="0" />
   <Message key="InvalidFileRecord" value="Arquivo de gravação inválido: {record}" revision="0" />
   <Message key="UnknownAttribute" value="Tipo de atributo desconhecido: {type}" revision="0" />
   <Message key="MagicMismatch" value="Erro ao analisar bloco de índice: Incompatibilidade de magia" revision="0" />
@@ -77,8 +77,8 @@
     <Item value="Copia todo o conteúdo do volume (arquivos e diretórios) para o destino selecionado" revision="0" />
   </Enumeration>
   <Enumeration key="SelectAllFileData">
-    <Item value="&amp;Selecionar Todo Stream de Dados" revision="0" />
-    <Item value="Seleciona todos os clusters que armazenam dados de stream" revision="0" />
+    <Item value="&amp;Selecionar Todo Fluxo de Dados" revision="0" />
+    <Item value="Seleciona todos os clusters que armazenam dados de fluxo" revision="0" />
   </Enumeration>
   <Enumeration key="OpenInHexEdior">
     <Item value="&amp;Abrir Arquivo no Editor" revision="0" />

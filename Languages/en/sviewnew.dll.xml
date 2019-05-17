@@ -482,6 +482,9 @@
     <Item text="Semicolon"/>
   </Enumeration>
 
+  <Message key="MaxExportStringSize" description="Option: Maximum string length" value="Maximum string length"/>
+  <Message key="MaxExportObjectFields" description="Option: Maximum number of inline fields or array items" value="Maximum number of inline fields or array items"/>
+
   <Message key="CopyError" description="Copy error" revision="1" value="Error copying data: {text} ({code})">
     <Param name="text"/>
     <Param name="code" format="b016x"/>

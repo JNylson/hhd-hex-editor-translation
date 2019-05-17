@@ -34,10 +34,10 @@
   </Enumeration>
   <Enumeration key="FeatureExplorer1">
     <Item value="Built-In Explorer" revision="0" />
-    <Item value="Built-in ferramenta de janela que imita o Windows Explorer e é totalmente integrado com o Editor Hex. Uma janela do Explorer está disponível na Edição Padrão e duas estão disponíveis nas edições Professional e Ultimate." revision="0" />
+    <Item value="Built-in ferramenta de janela que imita o Windows Explorer e está totalmente integrado com o Editor Hex. Uma janela do Explorer está disponível na Edição Padrão e duas estão disponíveis nas edições Professional e Ultimate." revision="0" />
   </Enumeration>
   <Enumeration key="FeatureExplorer2">
     <Item value="2 Built-In Explorers" revision="0" />
-    <Item value="Built-in Explorer ferramenta de janela que imita o Windows Explorer e está totalmente integrada com o Hex Editor. Uma janela do explorer está disponível na Edição Padrão e dois estão disponíveis nas edições Professional e Ultimate." revision="0" />
+    <Item value="Built-in Explorer ferramenta de janela que imita o Windows Explorer e está totalmente integrada com o Hex Editor. Uma janela do Explorer está disponível na Edição Padrão e duas estão disponíveis nas edições Professional e Ultimate." revision="0" />
   </Enumeration>
 </Language>

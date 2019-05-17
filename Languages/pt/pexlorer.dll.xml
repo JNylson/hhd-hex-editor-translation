@@ -65,7 +65,7 @@
     <Item value="Abre processo da memória para exibir e modificação" revision="1" />
   </Enumeration>
   <Enumeration key="DisplayNotification">
-    <Item value="Funcionalidade Limitada do Orocesso Aberto" revision="1" />
+    <Item value="Funcionalidade Limitada do Processo Aberto" revision="1" />
     <Item value="Aviso: O Hex Editor Neo não possui os privilégios necessários para acessar os processos em execução no seu sistema. Só será capaz de se conectar a um pequeno subconjunto de processos em execução no seu computador. Execute o Hex Editor Neo como um usuário privilegiado com acesso administrativo para poder editar o espaço de endereçamento de memória de qualquer processo." revision="1" />
   </Enumeration>
   <Enumeration key="Tabs">

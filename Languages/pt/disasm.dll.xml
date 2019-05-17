@@ -9,7 +9,7 @@
   <Message key="OpenError" value="Arquivo não pode ser aberto: &quot;{error}&quot;" revision="0" />
   <Message key="Wrong file size" value="Tamanho do arquivo errado" revision="0" />
   <Message key="WrongAddress" value="Endereço digitado é maior que o tamanho do documento. Digite o endereço correto." revision="0" />
-  <Message key="MaxSize" value="{is too big?}Hex Editor Neo é incapaz de disassemble arquivos que são maiores do que {max size}. {?is too big}Disassembling Começando de {from} para {to} (tamanho = {size}). Continuar?" revision="0" />
+  <Message key="MaxSize" value="{is too big?}Hex Editor Neo é incapaz de disassemble arquivos maiores do que {max size}. {?is too big}Disassembling Começando de {from} para {to} (tamanho = {size}). Continuar?" revision="0" />
   <Message key="Locked" value="Este documento está bloqueado. Por favor, repita a operação mais tarde." revision="0" />
   <Message key="FormatString" value="Todos os Executáveis|*.exe;*.dll;*.sys;*.ocx|Executáveis (*.exe)|*.exe|Bibliotecas de Vínculo Dinâmico (*.dll)|*.dll|Biblioteca ActiveX (*.ocx)|*.ocx|Drivers (*.sys)|*.sys|" revision="0" />
   <Message key="N/A" value="Não Disponível" revision="0" />
@@ -43,7 +43,7 @@
   <Message key="Unable to write to a file." value="Erro ao gravar dados em um arquivo." revision="0" />
   <Message key="ClipboardError" value="Erro ao copiar dados" revision="0" />
   <Message key="Searching" value="Procurando" revision="0" />
-  <Message key="NotFound" value="Um padrão não foi encontrado" revision="0" />
+  <Message key="NotFound" value="Nenhum padrão foi encontrado" revision="0" />
   <Message key="None" value="Nada" revision="0" />
   <Message key="Find what:" value="Encontre o que:" revision="0" />
   <Message key="InAllColumns" value="--- Em Todas as Colunas" revision="0" />
@@ -114,18 +114,18 @@
   </Enumeration>
   <Enumeration key="DisasmShowSymbols">
     <Item value="Símbolos..." revision="0" />
-    <Item value="Exibie os símbolos para esse documento. Salta para um símbolo selecionado." revision="0" />
+    <Item value="Exibir os símbolos para esse documento. Salta para um símbolo selecionado." revision="0" />
   </Enumeration>
   <Enumeration key="DisasmRefresh">
     <Item value="Atualizar" revision="0" />
     <Item value="Atualiza disassembly" revision="0" />
   </Enumeration>
   <Enumeration key="DisasmSyncCursor">
-    <Item value="Sicronizar Curso" revision="0" />
+    <Item value="Sincronizar Curso" revision="0" />
     <Item value="Sincronizar o cursor em ambas as exibições" revision="0" />
   </Enumeration>
   <Enumeration key="DisasmSyncSelection">
-    <Item value="Sicronizar Seleção" revision="0" />
+    <Item value="Sincronizar Seleção" revision="0" />
     <Item value="Sincroniza a seleção em ambas as exibições" revision="0" />
   </Enumeration>
   <Enumeration key="Flags">

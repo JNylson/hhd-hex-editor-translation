@@ -45,7 +45,7 @@
   <Message key="Copy/export speed" value="{lines} linhas/s" revision="0" />
   <Message key="VariableUpdateError" value="Hex Editor Neo é capaz de atualizar o valor da variável." revision="0" />
   <Message key="VariableBindError" value="Hex Editor Neo é incapaz de vincular a uma variável." revision="0" />
-  <Message key="OnlyFirst" value="Apenas as primeiras {n} linhas seram {is copy?} copiadas para a área de transferência {|is copy} exportadas {?is copy}. Você quer continuar?" revision="0" />
+  <Message key="OnlyFirst" value="Apenas as primeiras {n} linhas serão {is copy?} copiadas para a área de transferência {|is copy} exportadas {?is copy}. Você quer continuar?" revision="0" />
   <Message key="SchemeExists" value="Esquema já existe. Você quer substituir-lo?" revision="0" />
   <Message key="Scheme already exists" value="Esquema já existe" revision="0" />
   <Message key="External Editor" value="Editor Externo" revision="0" />
@@ -98,6 +98,8 @@
   <Message key="Add Inspector Type" value="Adicionar Tipo de Inspetor" revision="0" />
   <Message key="Change Time" value="Alterar Tempo" revision="0" />
   <Message key="AssignNotification" value="Modificação de dados não está habilitado para esse tipo. Clique no botão Ajuda para obter informações detalhadas sobre como ativar a modificação de dados para um tipo." revision="0" />
+  <Message key="MaxExportStringSize" value="Comprimento máximo da string" revision="0" />
+  <Message key="MaxExportObjectFields" value="Número máximo de campos embutidos ou itens de array" revision="0" />
   <Message key="CopyError" value="Erro ao copiar dados: {text} ({code})" revision="1" />
   <Message key="FileExists" value="Esse arquivo já foi adicionado à biblioteca." revision="0" />
   <Message key="ErrorStartingExternalEditor" value="Erro ao iniciar o editor externo.\r\n\r\nLinha de comando: {path}\r\nErro: {error text} ({error})" revision="0" />

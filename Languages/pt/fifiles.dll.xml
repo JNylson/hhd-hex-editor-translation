@@ -56,7 +56,7 @@
   </Enumeration>
   <Enumeration key="FindInFiles feature">
     <Item value="Localizar no Arquivo" revision="1" />
-    <Item value="O recurso Localizar no Arquivo permite localizar rapidamente os arquivos que contenham padrão especificado dentro de uma ou várias pastas." revision="1" />
+    <Item value="O recurso Localizar no Arquivo permite localizar rapidamente os arquivos que contenham o padrão especificado dentro de uma ou várias pastas." revision="1" />
   </Enumeration>
   <Enumeration key="ReplaceInFiles feature">
     <Item value="Substituir no Arquivo" revision="1" />

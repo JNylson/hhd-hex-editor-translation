@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Language xmlns="http://www.hhdsoftware.com/schemas/langset/1.0.xsd">
-  <Message key="Sample Text" value="Texto Simples" revision="0" />
+  <Message key="Sample Text" value="Texto de Exemplo" revision="0" />
   <Message key="Loading" value="Carregando marcadores" revision="0" />
   <Message key="Initializing" value="Inicializando marcadores" revision="0" />
   <Message key="Bookmarks" value="Marcadores" revision="0" />
@@ -8,12 +8,12 @@
   <Message key="GroupDelete" value="Grupo será excluído (incluindo todos os marcadores que ele contém). Você quer continuar?" revision="0" />
   <Message key="AllDelete" value="Todos os grupos serão excluídos. Você quer continuar?" revision="0" />
   <Message key="BookmarkGroup" value="Grupo de Marcadores {n}" revision="0" />
-  <Message key="Error creating bookmarks group" value="Erro a criar grupo de marcadores" revision="0" />
+  <Message key="Error creating bookmarks group" value="Erro ao criar grupo de marcadores" revision="0" />
   <Message key="SelWarning" value="Seleção atual contém múltiplos fragmentos. Cada um será adicionado como marcadores separados. Você quer continuar?" revision="0" />
   <Message key="Error converting selection to bookmarks" value="Erro ao converter a seleção para marcadores" revision="0" />
   <Message key="Error converting bookmark to selection" value="Erro ao converter marcadores para seleção" revision="0" />
   <Message key="AllBookmarksDelete" value="Todos os marcadores serão excluídos. Você quer continuar?" revision="0" />
-  <Message key="Error loading from file" value="Erro a carregar do arquivo" revision="0" />
+  <Message key="Error loading from file" value="Erro ao carregar do arquivo" revision="0" />
   <Message key="File has different version" value="Arquivo tem versão diferente" revision="0" />
   <Message key="Error loading bookmarks" value="Erro ao carregar marcadores" revision="0" />
   <Message key="Select Action" value="Selecionar Ação" revision="0" />
@@ -29,7 +29,7 @@
   <Message key="Default" value="Padrão" revision="0" />
   <Message key="BookmarksFilterString" value="Arquivos de Marcadores (*.hexbook)|*.hexbook|" revision="0" />
   <Message key="SelectionFilterString" value="Arquivos de Seleção (*.hexsel)|*.hexsel|" revision="0" />
-  <Message key="Sel2BookmarkWarning" value="Exibir aviso ao converter seleção em marcadores" revision="1" />
+  <Message key="Sel2BookmarkWarning" value="Exibir aviso ao converter seleção para marcadores" revision="1" />
   <Message key="MergeBookmarks" value="Você quer mesclar com os marcadores existentes." revision="0" />
   <Enumeration key="BookNewGroup">
     <Item value="Novo Grupo de Marcadores" revision="0" />

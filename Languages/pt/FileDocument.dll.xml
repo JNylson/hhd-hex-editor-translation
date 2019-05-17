@@ -12,16 +12,16 @@
   <Message key="DeleteClasses?" value="Tem certeza que deseja excluir todas as classes?" revision="1" />
   <Message key="LoadError" value="Erro interno: {text} ({code})" revision="1" />
   <Message key="Loading" value="Carregar os componentes de núcleo" revision="1" />
-  <Message key="CheckForLowDiskSpace" value="Verificar o espaço de disco baixo antes de executar as operações" revision="1" />
+  <Message key="CheckForLowDiskSpace" value="Verificar pouco espaço em disco antes de executar as operações" revision="1" />
   <Message key="IgnoreRenames" value="Ignorar renomear arquivos compartilhados abertos" revision="1" />
-  <Message key="RemovedNotification" value="Documento compartilhado excluído" revision="1" />
+  <Message key="RemovedNotification" value="Excluir documento compartilhado" revision="1" />
   <Message key="AutoTrySnapshotNotification" value="Tentar abrir automáticamente usando instantâneo de disco" revision="0" />
   <Message key="NewBranchName" value="Ramo {n}" revision="1" />
   <Message key="OldVersion" value="{name} (versão antiga {version}){ext}" revision="1" />
   <Message key="ObjectCreationError" value="&quot;{path}&quot;: Erro ao criar objeto de documento: {text} ({code})" revision="2" />
   <Message key="LongTime" value="Abrindo o arquivo &quot;{path}&quot; no modo compartilhado pode demorar muito tempo. Você quer abrir o arquivo no modo normal, bloqueado em vez disso?" revision="1" />
   <Message key="OpenError" value="&quot;{path}&quot;: Erro ao abrir documento: {text} ({code})" revision="2" />
-  <Message key="LowDiskSpace" value="Espaço livre no disco {disco} é muito baixo. A operação não será realizada. Exclua alguns arquivos e tente novamente.\r\n\r\nNota: a maioria das operações de Hex Editor Neo são desativados quando há pouco espaço em disco que contém a pasta temporária. A operação Salvar como não está desativada, permite que você salve as alterações feitas no arquivo em outro volume.\r\n\r\nVocê pode desativar essa verificação em Ferramentas » Configurações, Geral. desmarque a opção &quot;Verificar o espaço de disco baixo antes de executar operações&quot; para desativar essa verificação." revision="1" />
+  <Message key="LowDiskSpace" value="Espaço livre no disco {disco} é muito baixo. A operação não será realizada. Exclua alguns arquivos e tente novamente.\r\n\r\nNota: a maioria das operações de Hex Editor Neo são desativados quando há pouco espaço em disco que contém a pasta temporária. A operação Salvar como não está desativada, permite que você salve as alterações feitas no arquivo em outro volume.\r\n\r\nVocê pode desativar essa verificação em Ferramentas » Configurações, Geral. desmarque a opção &quot;Verificar pouco espaço em disco antes de executar operações&quot; para desativar essa verificação." revision="1" />
   <Message key="Unknown Process" value="Processo desconhecido" revision="1" />
   <Message key="Physical Memory" value="Memória Física" revision="1" />
   <Message key="Shared File Conflict Detected" value="Conflito de Arquivo Compartilhado Detectado" revision="1" />
@@ -46,7 +46,7 @@
   <Message key="Global regular expression options:" value="Opções globais de expressão regular:" revision="1" />
   <Message key="'.' (Dot) metacharacter does not match null character ('\\0')" value="'.' (Ponto) metacaractere não coincide com o caractere null ('\\0')" revision="1" />
   <Message key="'.' (Dot) metacharacter does not match newline character ('\\n')" value="'.' (Ponto) metacaractere não coincide com o caractere de nova linha ('\\n')" revision="1" />
-  <Message key="Non-escaped white-space is not significant" value="Non-escaped white-space não é significativa" revision="1" />
+  <Message key="Non-escaped white-space is not significant" value="Espaço em branco sem escape não é significativo" revision="1" />
   <Message key="Open Shared" value="Abrir Compartilhado" revision="1" />
   <Message key="SnapshotTitle" value="Abrir do Instantâneo" revision="0" />
   <Message key="SnapshotDescription" value="Hex Editor Neo não pode abrir &quot;{path}&quot; devido ao seguinte erro:\r\n    » {text} ({code})\r\n\r\nVocê quer tentar criar um instantâneo do volume e do arquivo aberto a partir desse instantâneo?" revision="0" />

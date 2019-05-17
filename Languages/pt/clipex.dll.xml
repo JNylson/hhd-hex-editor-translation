@@ -31,7 +31,7 @@
   <Message key="&amp;Elements:" value="&amp;Elementos:" revision="1" />
   <Message key="&amp;Columns:" value="&amp;Colunas:" revision="1" />
   <Message key="&amp;Type:" value="&amp;Tipo:" revision="1" />
-  <Message key="Byte order:" value="Ordem de byte:" revision="1" />
+  <Message key="Byte order:" value="Agrupamento de byte:" revision="1" />
   <Message key="Group:" value="Grupo:" revision="1" />
   <Message key="&amp;Addresses" value="&amp;Endereços" revision="1" />
   <Message key="&amp;Text pane" value="&amp;Painel de texto" revision="1" />
@@ -42,9 +42,9 @@
   <Message key="Clipboard" value="Área de transferência" revision="1" />
   <Message key="File:" value="Arquivo:" revision="1" />
   <Message key="Start of the file" value="Início do arquivo." revision="1" />
-  <Message key="Cursor location" value="Localização do cursor" revision="1" />
+  <Message key="Cursor location" value="Local do cursor" revision="1" />
   <Message key="Insert mode" value="Modo de inserção" revision="1" />
-  <Message key="Ignore data offset" value="Ignorar dados offset" revision="1" />
+  <Message key="Ignore data offset" value="Ignorar dados de endereço" revision="1" />
   <Message key="Encoding:" value="Codificação:" revision="1" />
   <Enumeration key="EditCopyAs">
     <Item value="Copiar &amp;Como..." revision="1" />
@@ -52,7 +52,7 @@
   </Enumeration>
   <Enumeration key="EditExport">
     <Item value="&amp;Exportar..." revision="1" />
-    <Item value="Exporta a selecção" revision="1" />
+    <Item value="Exporta a seleção" revision="1" />
   </Enumeration>
   <Enumeration key="EditPasteAs">
     <Item value="Colar C&amp;omo..." revision="1" />
@@ -83,7 +83,7 @@
   </Enumeration>
   <Enumeration key="FormattedFeature">
     <Item value="Copiar/Exportar Dados Formatados" revision="1" />
-    <Item value="O recurso de Copiar/Exportar Dados Formatado permite copiar ou exportar o conteúdo do painel de código em uma grande variedade de formatos." revision="1" />
+    <Item value="O recurso Copiar/Exportar Dados Formatados permite copiar ou exportar o conteúdo do painel de código em uma grande variedade de formatos." revision="1" />
   </Enumeration>
   <Enumeration key="Encodings">
     <Item value="Atual" revision="1" />
@@ -100,7 +100,7 @@
   </Enumeration>
   <Enumeration key="RawTextFormat">
     <Item value="Texto &amp;Bruto" revision="1" />
-    <Item value="Converte em uma simples seqüência de caracteres ASCII ou UNICODE" revision="1" />
+    <Item value="Converte em uma simples sequência de caracteres ASCII ou UNICODE" revision="1" />
   </Enumeration>
   <Enumeration key="BigSize">
     <Item value="Copiar Texto Grande" revision="1" />

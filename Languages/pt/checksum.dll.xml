@@ -85,7 +85,7 @@
     <Item value="Liga todos os algoritmos" revision="1" />
   </Enumeration>
   <Enumeration key="ChecksumUncheckAll">
-    <Item value="Desmarcar Tudo" revision="1" />
+    <Item value="Desmarcar Todos" revision="1" />
     <Item value="Desliga todos os algoritmos" revision="1" />
   </Enumeration>
   <Enumeration key="ChecksumCopy">

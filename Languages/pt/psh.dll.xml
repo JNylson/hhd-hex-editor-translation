@@ -25,6 +25,8 @@
   <Message key="PatchFileFilter" value="Arquivos de Patch (*.hexpatch)|*.hexpatch|Arquivos Executável (*.exe)|*.exe|" revision="0" />
   <Message key="Forks" value="{opname} ({items} items{has_forks?}, {forks} fork(s){?has_forks})" revision="0" />
   <Message key="Switch To" value="Alternar Para" revision="0" />
+  <Message key="Purge Branches" value="Eliminar Ramificações" revision="0" />
+  <Message key="Purge Tail" value="Eliminar Cauda" revision="0" />
   <Message key="CantUndone" value="Essa operação não pode ser desfeita. Você quer continuar?" revision="0" />
   <Message key="HistoryInfo" value="Itens: {items}, Ramos: {branches}, Forks: {forks}" revision="0" />
   <Message key="CompressionSizeLimit" value="{size} bytes ({size as text})" revision="0" />
@@ -47,11 +49,13 @@
   <Message key="Create Patch" value="Criar Patch" revision="0" />
   <Message key="Patch created successfully." value="Patch criado com sucesso." revision="0" />
   <Message key="Patch creation failed." value="Falha ao criar patch." revision="0" />
+  <Message key="PatchNotSupported" value="A versão atual do Hex Editor Neo não suporta a criação de patches quando você tem dados colados de outros arquivos ou quando foram usadas operações bitwise, aritméticas, shift ou case change no arquivo. Veja a documentação incluída para mais informações. Essa limitação será removida em versões futuras do produto." revision="0" />
   <Message key="All history will be lost. Do you want to continue?" value="Todo o histórico será perdida. Você quer continuar?" revision="0" />
   <Message key="HistoryFilter" value="Arquivo de Histórico do Hex Editor Neo (*.hexhis)|*.hexhis|" revision="0" />
   <Message key="Operation History" value="Histórico de Operação" revision="0" />
   <Message key="Operation history has been saved successfully." value="Operação de Histórico foi salva com sucesso." revision="0" />
   <Message key="There was an error saving operation history." value="Houve um erro ao salvar o histórico de operação." revision="0" />
+  <Message key="HistoryLoadError" value="Possíveis razões para o erro incluem:\r\n\r\n · Este não é um arquivo de histórico do Hex Editor Neo ou o arquivo está danificado.\r\n · Você está carregando um histórico de um arquivo diferente.\r\n · O arquivo original foi alterado desde que o histórico foi criado.\r\n · O arquivo de histórico contém referências externas para arquivos não presentes ou alterados." revision="0" />
   <Message key="Rename Branch" value="Renomear Ramo" revision="0" />
   <Message key="Delete Branch" value="Excluir Ramo" revision="0" />
   <Message key="Unpin Branch" value="Desafixar Ramo" revision="0" />
@@ -66,6 +70,7 @@
   <Message key="ASCII:" value="ASCII:" revision="0" />
   <Message key="UNICODE:" value="UNICODE:" revision="0" />
   <Message key="EBCDIC:" value="EBCDIC:" revision="0" />
+  <Message key="Histogram Color Selection" value="Histograma de seleção de cores " revision="0" />
   <Message key="First color:" value="Primeira cor:" revision="0" />
   <Message key="Second color:" value="Segunda cor:" revision="0" />
   <Message key="Outline color:" value="Cor de contorno:" revision="0" />
@@ -98,6 +103,8 @@
   <Message key="Ignore case" value="Ignorar maiúsculas e minúsculas" revision="0" />
   <Message key="Purge History" value="Limpar Histórico" revision="0" />
   <Message key="Select operation to perform:" value="Selecione a operação a ser executada:" revision="0" />
+  <Message key="Purge redo tail" value="Eliminar refazer cauda" revision="0" />
+  <Message key="Purge branches" value="Eliminar ramos" revision="0" />
   <Message key="Clear History" value="Limpar Histórico" revision="0" />
   <Message key="Purge all" value="Limpar tudo" revision="0" />
   <Message key="Warning: History purge operation cannot be undone!" value="Aviso: Operação de limpeza do histórico não pode ser desfeita!" revision="0" />

@@ -36,7 +36,7 @@
   <Message key="&amp;Find Next" value="&amp;Localizar Próximo" revision="0" />
   <Message key="&amp;Replace" value="&amp;Substituir" revision="0" />
   <Message key="Replace &amp;All" value="Substituir &amp;Todos" revision="0" />
-  <Message key="A pattern was not found." value="Um padrão não foi encontrado." revision="0" />
+  <Message key="A pattern was not found." value="Nenhum padrão foi encontrado." revision="0" />
   <Message key="InvalidColoringScheme" value="Nome do esquema de cores inválido." revision="0" />
   <Message key="OverwriteColoringScheme" value="O esquema especificado já existe. Você quer substituí-lo?" revision="0" />
   <Enumeration key="EditReplace">

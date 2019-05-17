@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Language xmlns="http://www.hhdsoftware.com/schemas/langset/1.0.xsd">
-  <Message key="Offset" value="Offset" revision="1" />
+  <Message key="Offset" value="Endereço" revision="1" />
   <Message key="SchemeNameCue" value="Digite o nome do esquema aqui" revision="1" />
   <Message key="Encrypt" value="Criptografado" revision="1" />
   <Message key="Decrypt" value="Descriptografado" revision="1" />
   <Message key="Navigate to Position" value="Navegar para a Posição" revision="1" />
   <Message key="Add Position" value="Adicionar Posição" revision="1" />
   <Message key="Editor" value="Editor" revision="1" />
-  <Message key="Printing" value="Imprimindo" revision="1" />
+  <Message key="Printing" value="Impressão" revision="1" />
   <Message key="AutoDropSelection" value="Modo de seleção única" revision="1" />
   <Message key="AdjustSelectionOnInsert" value="Ajustar a seleção na operação de inserção" revision="1" />
   <Message key="DigitGrouping" value="Agrupar dígitos" revision="1" />
@@ -16,7 +16,7 @@
   <Message key="StandardHeader" value="Cabeçalho padrão" revision="1" />
   <Message key="StandardFooter" value="Rodapé padrão" revision="1" />
   <Message key="ShiftCursorOnPaste" value="Move o cursor depois de colar" revision="1" />
-  <Message key="FindAllNotification" value="Localizar Todos" revision="1" />
+  <Message key="FindAllNotification" value="Localizar todos" revision="1" />
   <Message key="PasteNotification" value="Colar texto" revision="1" />
   <Message key="InvalidExpressionSyntax" value="Expressão inválida. Verifique a sintaxe." revision="1" />
   <Message key="Connect to" value="Conectar a" revision="1" />
@@ -38,20 +38,20 @@
   <Message key="NoEncoding" value="Seu sistema não possui os componentes necessários para oferecer suporte a codificação selecionada. Selecione outra codificação." revision="1" />
   <Message key="SwitchSingleSel" value="Troque na opção &quot;Modo de Seleção Única&quot; \nIsso efetivamente desligará a seleção múltipla. Poderá depois desligar esta opção na guia de Configurações Gerais." revision="1" />
   <Message key="Find" value="Localizar" revision="1" />
-  <Message key="A pattern was not found." value="Um padrão não foi encontrado." revision="1" />
+  <Message key="A pattern was not found." value="Nenhum padrão foi encontrado." revision="1" />
   <Message key="RegExpInSel" value="A pesquisa de expressão regular dentro de uma seleção não é suportada." revision="1" />
   <Message key="Find All" value="Localizar Todos" revision="1" />
   <Message key="RegExpBackwards" value="A pesquisa de expressão regular para trás não é suportada." revision="1" />
   <Message key="Replace All" value="Substituir Todos" revision="1" />
-  <Message key="Go to Offset" value="Ir para Offset" revision="1" />
-  <Message key="Invalid offset." value="Offset inválido." revision="1" />
+  <Message key="Go to Offset" value="Ir para o Endereço" revision="1" />
+  <Message key="Invalid offset." value="Endereço inválido." revision="1" />
   <Message key="UnsupportedFunction" value="Essa função não é suportada para o tipo do documento atual." revision="1" />
   <Message key="Change File Size" value="Alterar Tamanho do Arquivo" revision="1" />
   <Message key="Invalid file size." value="Tamanho do arquivo inválido." revision="1" />
   <Message key="Insert" value="Inserir" revision="1" />
   <Message key="Invalid size." value="Tamanho inválido." revision="1" />
   <Message key="NFound" value="{isfound?}{n} Ocorrências encontradas.{|isfound}Um padrão não foi encontrado.{?isfound}" revision="1" />
-  <Message key="NFoundAndReplaced" value="{isfound?}{n} Ocorrências encontradas e substituídas.{|isfound}Um padrão não foi encontrado.{?isfound}" revision="1" />
+  <Message key="NFoundAndReplaced" value="{isfound?}{n} Ocorrências encontradas e substituídas.{|isfound}Nenhum padrão foi encontrado.{?isfound}" revision="1" />
   <Message key="Selected encryption algorithm is unsupported." value="Algoritmo de criptografia selecionado não é suportado." revision="1" />
   <Message key="Copy" value="Copiar" revision="1" />
   <Message key="Export" value="Exportar" revision="1" />
@@ -60,7 +60,7 @@
   <Message key="AlgoDef" value="{name} ({bits}{more?} - {morebits}{?more} bits)" revision="1" />
   <Message key="SetSize" value="Hex: \t{size}\r\nDecimal: \t{size:2} ({size as text}){hasfree?}\r\n\r\nDisco do arquivo de espaço livre: {free}\r\n{?hasfree}" revision="1" />
   <Message key="RegExpSyntaxError" value="Erro de sintaxe de expressão regular: {error}." revision="1" />
-  <Message key="OffsetPane" value="Offset: {offset} ({offset:2})" revision="1" />
+  <Message key="OffsetPane" value="Endereço: {offset} ({offset:2})" revision="1" />
   <Message key="SizePane" value="Tamanho: {size} ({size:2}): {size as text}" revision="1" />
   <Message key="WrongSize" value="Algoritmo selecionado requer tamanho de dados a ser múltiplo de {bytes} bytes." revision="1" />
   <Message key="EncryptFailed" value="Criptografia/descriptografia falha com um código de erro {code}" revision="1" />
@@ -80,14 +80,14 @@
   <Message key="Hexadecimal" value="Hexadecimal" revision="1" />
   <Message key="Decimal" value="Decimal" revision="1" />
   <Message key="Modify Bits" value="Modificar Bits" revision="1" />
-  <Message key="1 Byte:" value="1 Byte:" revision="1" />
-  <Message key="2 Byte:" value="2 Byte:" revision="1" />
-  <Message key="3 Byte:" value="3 Byte:" revision="1" />
-  <Message key="4 Byte:" value="4 Byte:" revision="1" />
-  <Message key="5 Byte:" value="5 Byte:" revision="1" />
-  <Message key="6 Byte:" value="6 Byte:" revision="1" />
-  <Message key="7 Byte:" value="7 Byte:" revision="1" />
-  <Message key="8 Byte:" value="8 Byte:" revision="1" />
+  <Message key="1 Byte:" value="1 byte:" revision="2" />
+  <Message key="2 Byte:" value="2 byte:" revision="2" />
+  <Message key="3 Byte:" value="3 byte:" revision="2" />
+  <Message key="4 Byte:" value="4 byte:" revision="2" />
+  <Message key="5 Byte:" value="5 byte:" revision="2" />
+  <Message key="6 Byte:" value="6 byte:" revision="2" />
+  <Message key="7 Byte:" value="7 byte:" revision="2" />
+  <Message key="8 Byte:" value="8 byte:" revision="2" />
   <Message key="Binary representation:" value="Representação binária:" revision="1" />
   <Message key="Value:" value="Valor:" revision="1" />
   <Message key="Hex" value="Hex" revision="1" />
@@ -118,17 +118,17 @@
   <Message key="&amp;Fill" value="&amp;Preencher" revision="0" />
   <Message key="&amp;Find" value="&amp;Localizar" revision="0" />
   <Message key="Find &amp;All" value="Localizar &amp;Tudo" revision="0" />
-  <Message key="Search whole file" value="Pr. em todo arquivo" revision="0" />
-  <Message key="Search selection" value="Procurar na seleção" revision="0" />
-  <Message key="Search up" value="Procurar acima" revision="0" />
-  <Message key="Search down" value="Procurar abaixo" revision="0" />
-  <Message key="Ignore case" value="Ignorar caso" revision="0" />
-  <Message key="Offset (expressions supported):" value="Offset (expressões suportadas):" revision="0" />
-  <Message key="Resulting offset:" value="Resultado offset:" revision="0" />
+  <Message key="Search whole file" value="Em todo arquivo" revision="0" />
+  <Message key="Search selection" value="Na seleção" revision="0" />
+  <Message key="Search up" value="Acima" revision="0" />
+  <Message key="Search down" value="Abaixo" revision="0" />
+  <Message key="Ignore case" value="Ignorar maiúscala e minúscula" revision="0" />
+  <Message key="Offset (expressions supported):" value="Endereço (expressões suportadas):" revision="0" />
+  <Message key="Resulting offset:" value="Resultado de endereço:" revision="0" />
   <Message key="Selection:" value="Seleção:" revision="0" />
   <Message key="Bookmark:" value="Marcador:" revision="0" />
-  <Message key="&amp;Absolute offset" value="Offset &amp;absoluto" revision="0" />
-  <Message key="&amp;Relative offset" value="Offset &amp;relativo" revision="0" />
+  <Message key="&amp;Absolute offset" value="Endereço &amp;absoluto" revision="0" />
+  <Message key="&amp;Relative offset" value="Endereço &amp;relativo" revision="0" />
   <Message key="&amp;Percent" value="&amp;Por cento" revision="0" />
   <Message key="&amp;Insert" value="&amp;Inserir" revision="0" />
   <Message key="Size (expressions supported):" value="Tamanho (expressões suportada):" revision="0" />
@@ -138,10 +138,10 @@
   <Message key="Visualization elements:" value="Elementos de visualização:" revision="0" />
   <Message key="Color:" value="Cor:" revision="0" />
   <Message key="Automatic" value="Automático" revision="0" />
-  <Message key="Do not interlace background" value="Não entrelace fundo" revision="0" />
+  <Message key="Do not interlace background" value="Não entrelaçar fundo" revision="0" />
   <Message key="Interlace columns" value="Entrelaçar coluna" revision="0" />
-  <Message key="Interlace rows" value="Entrelaçar de linhas" revision="0" />
-  <Message key="Draw edit cursor frame" value="Dese. quadro de cursor na edição" revision="0" />
+  <Message key="Interlace rows" value="Entrelaçar linhas" revision="0" />
+  <Message key="Draw edit cursor frame" value="Desenhar cursor na edição" revision="0" />
   <Message key="Smart indentation" value="Recuo inteligente" revision="0" />
   <Message key="Antialiased quality (slower)" value="Qualidade Antialias (mais lento)" revision="0" />
   <Message key="Schemes…" value="Esquemas..." revision="0" />
@@ -161,17 +161,17 @@
   <Message key="&amp;Find Next" value="&amp;Localizar Próximo" revision="0" />
   <Message key="&amp;Replace" value="&amp;Substituir" revision="0" />
   <Message key="Replace &amp;All" value="Substituir &amp;Todos" revision="0" />
-  <Message key="Reverse Operation" value="Operação Inversa" revision="0" />
+  <Message key="Reverse Operation" value="Operação Reversa" revision="0" />
   <Message key="Information" value="Informações" revision="0" />
   <Message key="Details" value="Detalhes" revision="0" />
-  <Message key="Select Range" value="Escala de Seleção" revision="0" />
-  <Message key="Offset:" value="Offset:" revision="0" />
+  <Message key="Select Range" value="Selecionar Intervalo" revision="0" />
+  <Message key="Offset:" value="Endereço:" revision="0" />
   <Message key="Add" value="Adicionar" revision="0" />
   <Message key="Subtract" value="Subtrair" revision="0" />
   <Message key="Overlap" value="Sobrepor" revision="0" />
   <Message key="Specify new file size:" value="Especificar novo tamanho de arquivo:" revision="0" />
   <Message key="Resulting file size:" value="Tamanho do arquivo resultante:" revision="0" />
-  <Message key="You may use mathematic expression to enter new file size. See Help for more details." value="Você pode usar a expressão matemática para inserir o novo tamanho de arquivo. Consulte a ajuda para mais detalhes." revision="0" />
+  <Message key="You may use mathematic expression to enter new file size. See Help for more details." value="Você pode usar a expressão matemática para inserir o novo tamanho do arquivo. Consulte a ajuda para mais detalhes." revision="0" />
   <Message key="Shift Operation" value="Operação de Deslocamento" revision="0" />
   <Message key="Shift by (bits):" value="Deslocar por (bits):" revision="0" />
   <Message key="Editor Page" value="Editor" revision="0" />
@@ -179,13 +179,13 @@
   <Message key="Display as:" value="Exibir por:" revision="0" />
   <Message key="Group by:" value="Agrupar por:" revision="0" />
   <Message key="Columns:" value="Colunas:" revision="0" />
-  <Message key="Byte order:" value="Ordem de Byte:" revision="0" />
+  <Message key="Byte order:" value="Agrupamento de Byte:" revision="0" />
   <Message key="Encoding:" value="Codificação:" revision="0" />
-  <Message key="Autosave editor window settings for each opened document" value="Auto salvar configurações de janela do editor para cada documento aberto" revision="0" />
+  <Message key="Autosave editor window settings for each opened document" value="Auto salvar configurações da janela do editor para cada documento aberto" revision="0" />
   <Message key="When checked, Hex Editor Neo will associate the editor window settings you configure with every opened document. Next time you open the same document in the editor, editor window settings are automatically loaded." value="Quando marcada, O Hex Editor Neo irá associar as definições da janela do editor que você configurar com cada documento aberto. Da próxima vez que você abrir o mesmo documento no editor, as configurações de janela serão carregadas automaticamente." revision="0" />
   <Message key="Code pane" value="Painel de código" revision="0" />
-  <Message key="Text pane" value="Painel de Texto" revision="0" />
-  <Message key="Take from current window" value="Retirar a janela atual" revision="0" />
+  <Message key="Text pane" value="Painel de texto" revision="0" />
+  <Message key="Take from current window" value="Retirar da janela atual" revision="0" />
   <Message key="Reset to Default" value="Restaurar ao Padrão" revision="0" />
   <Message key="Clear Cache" value="Limpar Cache" revision="0" />
   <Message key="Layout settings" value="Editor de Layout" revision="0" />
@@ -209,15 +209,15 @@
   </Enumeration>
   <Enumeration key="SelectRange">
     <Item value="Selecionar Intervalo" revision="1" />
-    <Item value="Especifique o intervalo de dados e combine com uma seleção atual" revision="1" />
+    <Item value="Especifique o intervalo de dados e combine com a seleção atual" revision="1" />
   </Enumeration>
   <Enumeration key="SelectLoad">
     <Item value="&amp;Carregar Seleção..." revision="1" />
-    <Item value="Carrega a nova seleção ou combina com uma atual" revision="1" />
+    <Item value="Carrega a nova seleção ou combina com a atual" revision="1" />
   </Enumeration>
   <Enumeration key="SelectSave">
     <Item value="&amp;Salvar Seleção..." revision="1" />
-    <Item value="Salva a seleção atual em um arquivo" revision="1" />
+    <Item value="Salva a seleção atual para um arquivo" revision="1" />
   </Enumeration>
   <Enumeration key="EditEditCell">
     <Item value="&amp;Editar Célula" revision="1" />
@@ -252,8 +252,8 @@
     <Item value="Insere byte ou padrão" revision="1" />
   </Enumeration>
   <Enumeration key="EditGoto">
-    <Item value="Ir para &amp;Offset..." revision="1" />
-    <Item value="Ir para o offset específico no arquivo." revision="1" />
+    <Item value="Ir para &amp;Endereço..." revision="1" />
+    <Item value="Ir para o endereço específico no arquivo." revision="1" />
   </Enumeration>
   <Enumeration key="EditSetSize">
     <Item value="Alterar o &amp;Tamanho do Arquivo..." revision="1" />
@@ -292,7 +292,7 @@
     <Item value="Número de ponto flutuante de precisão simples" revision="1" />
   </Enumeration>
   <Enumeration key="ViewDouble">
-    <Item value="Duplo" revision="1" />
+    <Item value="Dupl&amp;a" revision="1" />
     <Item value="Número de ponto flutuante de precisão dupla" revision="1" />
   </Enumeration>
   <Enumeration key="ViewGroupByte">
@@ -360,8 +360,8 @@
     <Item value="Codificação Big-endian" revision="1" />
   </Enumeration>
   <Enumeration key="EndianSwitch">
-    <Item value="Trocar Ordem de Byte" revision="0" />
-    <Item value="Troca ordem de byte" revision="0" />
+    <Item value="Trocar Agrupamento de Byte" revision="0" />
+    <Item value="Troca o agrupamento de byte" revision="0" />
   </Enumeration>
   <Enumeration key="EditEncrypt">
     <Item value="Cr&amp;iptografar…" revision="1" />
@@ -373,15 +373,15 @@
   </Enumeration>
   <Enumeration key="EditModifyBits">
     <Item value="Modificar Bits..." revision="1" />
-    <Item value="Modifica os bits" revision="1" />
+    <Item value="Modifica os Bits" revision="1" />
   </Enumeration>
   <Enumeration key="ViewCodePane">
     <Item value="Painel de &amp;Código" revision="1" />
     <Item value="Exibe ou oculta o painel de código" revision="1" />
   </Enumeration>
   <Enumeration key="SelectAutoDrop">
-    <Item value="Modo de Seleção Individual" revision="1" />
-    <Item value="Alterna o modo de Seleção Individual ligado ou desligado" revision="1" />
+    <Item value="Modo de Seleção Única" revision="1" />
+    <Item value="Alterna o modo de Seleção Única ligado ou desligado" revision="1" />
   </Enumeration>
   <Enumeration key="OperationBitwiseNOT">
     <Item value="Bit a bit &amp;NOT…" revision="1" />
@@ -560,7 +560,7 @@
     <Item value="O recurso Colando Texto permite colar um texto da área de transferência e, opcionalmente, analisá-lo se ele contém uma sequência de números decimais ou hexadecimais." revision="1" />
   </Enumeration>
   <Enumeration key="InsModeIndicator">
-    <Item value="OVR" revision="1" />
+    <Item value="SOB" revision="1" />
     <Item value="INS" revision="1" />
   </Enumeration>
   <Enumeration key="ViewModes">
@@ -592,16 +592,16 @@
     <Item value="Altera o número de colunas" revision="0" />
   </Enumeration>
   <Enumeration key="MenuEndian">
-    <Item value="Ordem de &amp;Byte" revision="0" />
-    <Item value="Altera a ordem de byte" revision="0" />
+    <Item value="Agrupamento de &amp;Byte" revision="0" />
+    <Item value="Altera o agrupamento de byte" revision="0" />
   </Enumeration>
   <Enumeration key="MenuOffset">
-    <Item value="Offset" revision="2" />
-    <Item value="Altera o tipo de offset" revision="2" />
+    <Item value="Endereço" revision="2" />
+    <Item value="Altera o tipo de endereço" revision="2" />
   </Enumeration>
   <Enumeration key="MenuColumnsOffset">
-    <Item value="Offset" revision="2" />
-    <Item value="Altera o tipo de offset" revision="2" />
+    <Item value="Endereço" revision="2" />
+    <Item value="Altera o tipo de endereço" revision="2" />
   </Enumeration>
   <Enumeration key="FeatureEncodings">
     <Item value="Codificações" revision="1" />
@@ -626,7 +626,7 @@
   </Enumeration>
   <Enumeration key="FeatureReplaceAll">
     <Item value="Substituir Todas as Ocorrências" revision="1" />
-    <Item value="O recurso Substituir Todas as Ocorrências localiza rapidamente todas as ocorrências de um padrão e substitue com outro padrão. Os padrões podem ser de tamanhos diferentes e padrão destino pode ser vazio." revision="1" />
+    <Item value="O recurso Substituir Todas as Ocorrências localiza rapidamente todas as ocorrências de um padrão e substitui com outro padrão. Os padrões podem ser de tamanhos diferentes e padrão destino pode ser vazio." revision="1" />
   </Enumeration>
   <Enumeration key="FeatureSaveSelection">
     <Item value="Salvar Seleção" revision="1" />

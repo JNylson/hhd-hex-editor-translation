@@ -689,14 +689,14 @@
   
   <!-- Modify Bits -->
   <Message key="Modify Bits" description="Modify Bits window title" revision="1"/>
-  <Message key="1 Byte:" description="Field: 1 Byte" revision="1"/>
-  <Message key="2 Byte:" description="Field: 2 Byte" revision="1"/>
-  <Message key="3 Byte:" description="Field: 3 Byte" revision="1"/>
-  <Message key="4 Byte:" description="Field: 4 Byte" revision="1"/>
-  <Message key="5 Byte:" description="Field: 5 Byte" revision="1"/>
-  <Message key="6 Byte:" description="Field: 6 Byte" revision="1"/>
-  <Message key="7 Byte:" description="Field: 7 Byte" revision="1"/>
-  <Message key="8 Byte:" description="Field: 8 Byte" revision="1"/>
+  <Message key="1 Byte:" description="Field: 1 Byte" revision="2" value="1st byte:"/>
+  <Message key="2 Byte:" description="Field: 2 Byte" revision="2" value="2nd byte:"/>
+  <Message key="3 Byte:" description="Field: 3 Byte" revision="2" value="3rd byte:"/>
+  <Message key="4 Byte:" description="Field: 4 Byte" revision="2" value="4th byte:"/>
+  <Message key="5 Byte:" description="Field: 5 Byte" revision="2" value="5th byte:"/>
+  <Message key="6 Byte:" description="Field: 6 Byte" revision="2" value="6th byte:"/>
+  <Message key="7 Byte:" description="Field: 7 Byte" revision="2" value="7th byte:"/>
+  <Message key="8 Byte:" description="Field: 8 Byte" revision="2" value="8th byte:"/>
   <Message key="Binary representation:" description="Field: Binary representation" revision="1"/>
   <Message key="Value:" description="Field: Value" revision="1"/>
   <Message key="Hex" description="Choice: Hex" revision="1"/>
@@ -716,8 +716,8 @@
   <!-- Connect dialog -->
   <Message key="Select the Window to Connect" description='"Select the Window to Connect" window title'/>
   <Message key="Click on the icon below, drag it over the window you want to connect to and release the mouse button." description="Field: Click on the icon below…"/>
-  <Message key="Cursor movement is synchornized in connected windows." description="Field: Cursor movement is synchornized in connected windows"/>
-  
+  <Message key="Cursor movement is synchornized in connected windows." description="Field: Cursor movement is synchornized in connected windows" value="Cursor movement is synchronized in connected windows."/>
+
   <!-- Encrypt/Decrypt -->
   <Message key="Encrypt/Decrypt" description="Encrypt/Decrypt window title"/>
   <Message key="Algorithm:" description="Field: Algorithm"/>
